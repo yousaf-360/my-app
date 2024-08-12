@@ -1,0 +1,19 @@
+.App {
+    text-align: center;
+  }
+  
+  h1 {
+    text-align: center;
+  }
+  
+  ul {
+    list-style-type: none;
+  }
+  
+  .container-main {
+    display: grid;
+    grid-template-columns: repeat(4, 1fr);
+  }
+  li{
+    text-align: center;
+  }
